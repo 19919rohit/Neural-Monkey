@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+setup.cfg
+monkey/__init__.py
+monkey/activations.py
+monkey/attention.py
+monkey/globals.py
+monkey/models.py
+monkey/nn.py
+monkey/optimizers.py
+neural_monkey.egg-info/PKG-INFO
+neural_monkey.egg-info/SOURCES.txt
+neural_monkey.egg-info/dependency_links.txt
+neural_monkey.egg-info/top_level.txt
+tests/test.py
