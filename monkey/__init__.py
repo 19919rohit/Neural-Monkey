@@ -13,7 +13,7 @@ from .activations import relu, sigmoid, tanh, linear, activation_map
 from .attention import AttentionBlock
 
 # --- Optimizers ---
-from .optimizers import SGD, Adam, RMSProp
+from .optimizers import SGD, Adam, RMSProp, AdaGrad
 
 # --- Models (Saving/Loading) ---
 from .models import save, load
@@ -35,6 +35,7 @@ __all__ = [
     "SGD",
     "Adam",
     "RMSProp",
+    "AdaGrad", 
     "save",
     "load",
 ]
