@@ -1,5 +1,5 @@
 # Monkey – Simple Neural Networks for Beginners
-
+![Monkey Logo](assets/Neural-Monkey.png)
 Monkey is a lightweight Python library for building, training, and experimenting with simple neural networks.
 It’s designed for beginners to explore layers, activations, forward/backpropagation, and attention mechanisms.
 
@@ -180,8 +180,7 @@ loaded_model = load("my_model.mon", use_numpy=True)
 - Experiment with different activation functions
 - Try AttentionBlock for sequence-based learning
 
----
-**Github Repo available at : https://github.com/19919rohit/Neural-Monkey**
+
 ## License
 
 MIT License
