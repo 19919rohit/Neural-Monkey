@@ -20,7 +20,7 @@ It’s designed for beginners to explore layers, activations, forward/backpropag
 ## Installation
 
 ```bash
-pip install monkey
+pip install neural-monkey
 ```
 
 ---
