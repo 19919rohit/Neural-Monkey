@@ -23,7 +23,7 @@ It is designed for beginners who want to understand how neural networks work int
 ## Installation
 
 ```bash
-pip install monkey
+pip install neural-monkey
 ```
 
 ---
