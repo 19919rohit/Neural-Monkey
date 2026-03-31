@@ -1,5 +1,5 @@
 # Monkey – Simple Neural Networks for Beginners
-
+![Neural-Monkey logo][assets/Neural-Monkey.png]
 Monkey is a lightweight Python library for building, training, and experimenting with simple neural networks.  
 It is designed for beginners who want to understand how neural networks work internally without heavy dependencies.
 
